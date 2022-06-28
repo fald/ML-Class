@@ -13,4 +13,5 @@ Course 1 of 3 in the Speciaization
 
 
 ## Week 3:
-
+- Labs 9-17
+- Assignment 2
